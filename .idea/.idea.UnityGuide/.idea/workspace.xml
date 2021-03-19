@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="672857e0-289c-4663-9e72-8262fa8c84c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Player/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Player.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Player/Sprites/idle/player-idle-1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Sprites/idle/player-idle-1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Player/Sprites/idle/player-idle-2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Sprites/idle/player-idle-2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Player/Sprites/idle/player-idle-3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Sprites/idle/player-idle-3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Player/Sprites/idle/player-idle-4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Sprites/idle/player-idle-4.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Environment/middle.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Environment/middle.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityGuide/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityGuide/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Sprites/jump/player-jump-1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Sprites/jump/player-jump-1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Sprites/jump/player-jump-2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Sprites/jump/player-jump-2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-4.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-5.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-6.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-6.png.meta" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616049876193</updated>
-      <workItem from="1616049913885" duration="8316000" />
+      <workItem from="1616049913885" duration="11803000" />
+      <workItem from="1616168208111" duration="1880000" />
     </task>
     <servers />
   </component>
@@ -84,6 +85,10 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="277" y="77" key="SettingsEditor" timestamp="1616070915798">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1616070915798" />
     <state x="431" y="181" key="search.everywhere.popup" timestamp="1616052913227">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

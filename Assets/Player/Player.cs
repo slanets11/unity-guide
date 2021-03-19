@@ -12,12 +12,16 @@ public class Player : MonoBehaviour
     private bool isGrounded;
     private float movementX;
     private new Rigidbody2D rigidbody;
+    private Animator animator;
+    private SpriteRenderer spriteRenderer;
     private Controls input;
 
     private void Awake()
     {
         input = new Controls();
         rigidbody = gameObject.GetComponent<Rigidbody2D>();
+        animator = gameObject.GetComponent<Animator>();
+        spriteRenderer = gameObject.GetComponent<SpriteRenderer>();
         input.Player.Move.performed += context => Move(context.ReadValue<float>());        
         input.Player.Move.canceled += context => Move(0);
         input.Player.Jump.performed += context => Jump();
@@ -31,11 +35,15 @@ public class Player : MonoBehaviour
     private void FixedUpdate()
     {
         isGrounded = Physics2D.OverlapCircle (groundCheck.position, groundRadius, layerGrounds);
+        animator.SetBool("isJumping", !isGrounded);
     }
 
     private void Move(float axis)
     {
+        if (axis != 0)
+            spriteRenderer.flipX = axis < 0;
         movementX = axis * speed;
+        animator.SetBool("isRunning", movementX != 0);
     }
 
     private void Jump()
