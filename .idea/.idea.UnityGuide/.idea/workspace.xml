@@ -2,16 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="672857e0-289c-4663-9e72-8262fa8c84c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityGuide/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityGuide/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityGuide/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityGuide/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Player/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Player.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Player/Sprites/jump/player-jump-1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Sprites/jump/player-jump-1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Player/Sprites/jump/player-jump-2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Sprites/jump/player-jump-2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-4.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-5.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-6.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/Sprites/run/player-run-6.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-5.png.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +30,7 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Player/Player.cs.cs" />
         <option value="$PROJECT_DIR$/Assets/Player/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gem.cs" />
       </list>
     </option>
   </component>
@@ -36,6 +41,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -72,7 +78,8 @@
       <option name="presentableId" value="Default" />
       <updated>1616049876193</updated>
       <workItem from="1616049913885" duration="11803000" />
-      <workItem from="1616168208111" duration="1880000" />
+      <workItem from="1616168208111" duration="2538000" />
+      <workItem from="1616218195821" duration="483000" />
     </task>
     <servers />
   </component>
