@@ -22,6 +22,7 @@
     <list default="true" id="672857e0-289c-4663-9e72-8262fa8c84c2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityGuide/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityGuide/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityGuide/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityGuide/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Gem.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +41,9 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Player/Player.cs.cs" />
         <option value="$PROJECT_DIR$/Assets/Player/Player.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Gem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GemSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GemCounter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gem.cs" />
       </list>
     </option>
   </component>
@@ -90,7 +92,7 @@
       <updated>1616049876193</updated>
       <workItem from="1616049913885" duration="11803000" />
       <workItem from="1616168208111" duration="2538000" />
-      <workItem from="1616218195821" duration="3415000" />
+      <workItem from="1616218195821" duration="4891000" />
     </task>
     <servers />
   </component>

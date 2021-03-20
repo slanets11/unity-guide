@@ -8,8 +8,8 @@ public class Gem : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            Debug.Log("Gem Collected!");
             gemSpawner.SpawnGem();
+            FindObjectOfType<GemCounter>().Score++; // Так делать крайне не рекомендуется, использую в учебных целях
             Destroy(gameObject);
         }     
     }
